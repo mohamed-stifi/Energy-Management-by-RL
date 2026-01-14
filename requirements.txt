@@ -1,0 +1,28 @@
+# Core RL & ML
+numpy
+scipy
+torch==2.5.1+cpu
+tqdm
+tensorboard
+
+# Simulator & Environment
+gymnasium
+sinergym==3.10.0
+
+# Visualization & Analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+pandas
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+pytest
+black
+flake8

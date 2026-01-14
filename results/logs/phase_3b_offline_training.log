@@ -1,0 +1,2009 @@
+================================================================================
+Phase 3B : CQL Offline Training (IMPROVED)
+Start: 2026-01-09 15:43:20.443442
+CQL Weight: 10.0, CQL Temp: 0.3
+Double Q-Learning: Q1 + Q2
+================================================================================
+
+Epoch 1
+   TD Loss: 11.889682
+   CQL Penalty: 5.718036
+   Total Loss: 69.070042
+Epoch 2
+   TD Loss: 13.027021
+   CQL Penalty: 4.086036
+   Total Loss: 53.887376
+Epoch 3
+   TD Loss: 8.865955
+   CQL Penalty: 2.280647
+   Total Loss: 31.672424
+Epoch 4
+   TD Loss: 9.990280
+   CQL Penalty: 0.125908
+   Total Loss: 11.249359
+Epoch 5
+   TD Loss: 11.916039
+   CQL Penalty: -2.045819
+   Total Loss: -8.542148
+Epoch 6
+   TD Loss: 16.843927
+   CQL Penalty: -4.422387
+   Total Loss: -27.379945
+Epoch 7
+   TD Loss: 24.238877
+   CQL Penalty: -7.042137
+   Total Loss: -46.182492
+Epoch 8
+   TD Loss: 37.576841
+   CQL Penalty: -9.491202
+   Total Loss: -57.335178
+Epoch 9
+   TD Loss: 46.497314
+   CQL Penalty: -12.033066
+   Total Loss: -73.833344
+Epoch 10
+   TD Loss: 58.990704
+   CQL Penalty: -14.001857
+   Total Loss: -81.027871
+Epoch 11
+   TD Loss: 63.860854
+   CQL Penalty: -15.717838
+   Total Loss: -93.317525
+Epoch 12
+   TD Loss: 69.290391
+   CQL Penalty: -17.496257
+   Total Loss: -105.672182
+Epoch 13
+   TD Loss: 75.241437
+   CQL Penalty: -18.578980
+   Total Loss: -110.548360
+Epoch 14
+   TD Loss: 75.325427
+   CQL Penalty: -19.829711
+   Total Loss: -122.971682
+Epoch 15
+   TD Loss: 77.019264
+   CQL Penalty: -20.869921
+   Total Loss: -131.679955
+Epoch 16
+   TD Loss: 79.510410
+   CQL Penalty: -21.904930
+   Total Loss: -139.538889
+Epoch 17
+   TD Loss: 79.433405
+   CQL Penalty: -22.647520
+   Total Loss: -147.041797
+Epoch 18
+   TD Loss: 79.387458
+   CQL Penalty: -23.941721
+   Total Loss: -160.029747
+Epoch 19
+   TD Loss: 81.377744
+   CQL Penalty: -24.482458
+   Total Loss: -163.446834
+Epoch 20
+   TD Loss: 82.287305
+   CQL Penalty: -26.196270
+   Total Loss: -179.675395
+Epoch 21
+   TD Loss: 83.643212
+   CQL Penalty: -27.185347
+   Total Loss: -188.210248
+Epoch 22
+   TD Loss: 85.840887
+   CQL Penalty: -28.170160
+   Total Loss: -195.860710
+Epoch 23
+   TD Loss: 87.243832
+   CQL Penalty: -28.951973
+   Total Loss: -202.275902
+Epoch 24
+   TD Loss: 88.594691
+   CQL Penalty: -30.169497
+   Total Loss: -213.100284
+Epoch 25
+   TD Loss: 87.722566
+   CQL Penalty: -31.290471
+   Total Loss: -225.182152
+Epoch 26
+   TD Loss: 90.107295
+   CQL Penalty: -32.260924
+   Total Loss: -232.501939
+Epoch 27
+   TD Loss: 91.306273
+   CQL Penalty: -33.470071
+   Total Loss: -243.394443
+Epoch 28
+   TD Loss: 90.788786
+   CQL Penalty: -34.198089
+   Total Loss: -251.192108
+Epoch 29
+   TD Loss: 92.888193
+   CQL Penalty: -35.289812
+   Total Loss: -260.009920
+Epoch 30
+   TD Loss: 88.709775
+   CQL Penalty: -36.303734
+   Total Loss: -274.327567
+Epoch 31
+   TD Loss: 90.391648
+   CQL Penalty: -37.201372
+   Total Loss: -281.622083
+Epoch 32
+   TD Loss: 88.801601
+   CQL Penalty: -38.631535
+   Total Loss: -297.513736
+Epoch 33
+   TD Loss: 91.304297
+   CQL Penalty: -39.357669
+   Total Loss: -302.272397
+Epoch 34
+   TD Loss: 94.521201
+   CQL Penalty: -40.471442
+   Total Loss: -310.193213
+Epoch 35
+   TD Loss: 91.077594
+   CQL Penalty: -41.330701
+   Total Loss: -322.229416
+Epoch 36
+   TD Loss: 92.763307
+   CQL Penalty: -42.583186
+   Total Loss: -333.068561
+Epoch 37
+   TD Loss: 91.863647
+   CQL Penalty: -43.120937
+   Total Loss: -339.345721
+Epoch 38
+   TD Loss: 92.033233
+   CQL Penalty: -44.534866
+   Total Loss: -353.315414
+Epoch 39
+   TD Loss: 93.937279
+   CQL Penalty: -46.041550
+   Total Loss: -366.478223
+Epoch 40
+   TD Loss: 94.634418
+   CQL Penalty: -47.235639
+   Total Loss: -377.721970
+Epoch 41
+   TD Loss: 94.448799
+   CQL Penalty: -48.554384
+   Total Loss: -391.095041
+Epoch 42
+   TD Loss: 99.667879
+   CQL Penalty: -49.722867
+   Total Loss: -397.560791
+Epoch 43
+   TD Loss: 92.195472
+   CQL Penalty: -50.627550
+   Total Loss: -414.080023
+Epoch 44
+   TD Loss: 98.638640
+   CQL Penalty: -52.139536
+   Total Loss: -422.756717
+Epoch 45
+   TD Loss: 101.961067
+   CQL Penalty: -52.827753
+   Total Loss: -426.316464
+Epoch 46
+   TD Loss: 96.015386
+   CQL Penalty: -53.786720
+   Total Loss: -441.851825
+Epoch 47
+   TD Loss: 97.571799
+   CQL Penalty: -55.048793
+   Total Loss: -452.916138
+Epoch 48
+   TD Loss: 96.380818
+   CQL Penalty: -55.971664
+   Total Loss: -463.335815
+Epoch 49
+   TD Loss: 93.514731
+   CQL Penalty: -56.837979
+   Total Loss: -474.865042
+Epoch 50
+   TD Loss: 95.999202
+   CQL Penalty: -58.714906
+   Total Loss: -491.149860
+Epoch 51
+   TD Loss: 98.378063
+   CQL Penalty: -59.858047
+   Total Loss: -500.202405
+Epoch 52
+   TD Loss: 98.493401
+   CQL Penalty: -60.163267
+   Total Loss: -503.139267
+Epoch 53
+   TD Loss: 99.011349
+   CQL Penalty: -62.027129
+   Total Loss: -521.259952
+Epoch 54
+   TD Loss: 99.419634
+   CQL Penalty: -63.365835
+   Total Loss: -534.238708
+Epoch 55
+   TD Loss: 103.160069
+   CQL Penalty: -64.747234
+   Total Loss: -544.312299
+Epoch 56
+   TD Loss: 101.234423
+   CQL Penalty: -64.869202
+   Total Loss: -547.457599
+Epoch 57
+   TD Loss: 95.875844
+   CQL Penalty: -66.618725
+   Total Loss: -570.311401
+Epoch 58
+   TD Loss: 102.178786
+   CQL Penalty: -67.323911
+   Total Loss: -571.060339
+Epoch 59
+   TD Loss: 96.508202
+   CQL Penalty: -68.205851
+   Total Loss: -585.550311
+Epoch 60
+   TD Loss: 98.754845
+   CQL Penalty: -70.433401
+   Total Loss: -605.579144
+Epoch 61
+   TD Loss: 103.727709
+   CQL Penalty: -72.235043
+   Total Loss: -618.622729
+Epoch 62
+   TD Loss: 104.959451
+   CQL Penalty: -73.136996
+   Total Loss: -626.410510
+Epoch 63
+   TD Loss: 100.733877
+   CQL Penalty: -74.202048
+   Total Loss: -641.286609
+Epoch 64
+   TD Loss: 109.776034
+   CQL Penalty: -75.282162
+   Total Loss: -643.045575
+Epoch 65
+   TD Loss: 101.167742
+   CQL Penalty: -75.622799
+   Total Loss: -655.060248
+Epoch 66
+   TD Loss: 100.023259
+   CQL Penalty: -77.271549
+   Total Loss: -672.692267
+Epoch 67
+   TD Loss: 97.842538
+   CQL Penalty: -78.611499
+   Total Loss: -688.272461
+Epoch 68
+   TD Loss: 100.707124
+   CQL Penalty: -80.259966
+   Total Loss: -701.892535
+Epoch 69
+   TD Loss: 100.879635
+   CQL Penalty: -81.455486
+   Total Loss: -713.675195
+Epoch 70
+   TD Loss: 105.445831
+   CQL Penalty: -82.301995
+   Total Loss: -717.574121
+Epoch 71
+   TD Loss: 103.864655
+   CQL Penalty: -83.095100
+   Total Loss: -727.086353
+Epoch 72
+   TD Loss: 100.802903
+   CQL Penalty: -84.648247
+   Total Loss: -745.679572
+Epoch 73
+   TD Loss: 98.276308
+   CQL Penalty: -86.127708
+   Total Loss: -763.000757
+Epoch 74
+   TD Loss: 99.170959
+   CQL Penalty: -87.450942
+   Total Loss: -775.338446
+Epoch 75
+   TD Loss: 105.688538
+   CQL Penalty: -89.543233
+   Total Loss: -789.743799
+Epoch 76
+   TD Loss: 110.937616
+   CQL Penalty: -90.881554
+   Total Loss: -797.877942
+Epoch 77
+   TD Loss: 108.904559
+   CQL Penalty: -90.851106
+   Total Loss: -799.606494
+Epoch 78
+   TD Loss: 100.951241
+   CQL Penalty: -92.048689
+   Total Loss: -819.535663
+Epoch 79
+   TD Loss: 103.829025
+   CQL Penalty: -92.508891
+   Total Loss: -821.259900
+Epoch 80
+   TD Loss: 101.794566
+   CQL Penalty: -94.804918
+   Total Loss: -846.254614
+Epoch 81
+   TD Loss: 100.571819
+   CQL Penalty: -96.590504
+   Total Loss: -865.333203
+Epoch 82
+   TD Loss: 109.312957
+   CQL Penalty: -96.885712
+   Total Loss: -859.544183
+Epoch 83
+   TD Loss: 109.668324
+   CQL Penalty: -98.424081
+   Total Loss: -874.572516
+Epoch 84
+   TD Loss: 107.573992
+   CQL Penalty: -100.012857
+   Total Loss: -892.554572
+Epoch 85
+   TD Loss: 104.501601
+   CQL Penalty: -100.927477
+   Total Loss: -904.773169
+Epoch 86
+   TD Loss: 106.190926
+   CQL Penalty: -102.951746
+   Total Loss: -923.326563
+Epoch 87
+   TD Loss: 103.568852
+   CQL Penalty: -103.854140
+   Total Loss: -934.972565
+Epoch 88
+   TD Loss: 113.844188
+   CQL Penalty: -105.536802
+   Total Loss: -941.523834
+Epoch 89
+   TD Loss: 111.249622
+   CQL Penalty: -107.409481
+   Total Loss: -962.845190
+Epoch 90
+   TD Loss: 110.155052
+   CQL Penalty: -108.267685
+   Total Loss: -972.521814
+Epoch 91
+   TD Loss: 108.011321
+   CQL Penalty: -109.533547
+   Total Loss: -987.324164
+Epoch 92
+   TD Loss: 113.186326
+   CQL Penalty: -110.765784
+   Total Loss: -994.471539
+Epoch 93
+   TD Loss: 109.470918
+   CQL Penalty: -111.294956
+   Total Loss: -1003.478650
+Epoch 94
+   TD Loss: 107.679591
+   CQL Penalty: -112.282115
+   Total Loss: -1015.141589
+Epoch 95
+   TD Loss: 108.298329
+   CQL Penalty: -114.583167
+   Total Loss: -1037.533337
+Epoch 96
+   TD Loss: 106.191664
+   CQL Penalty: -113.780397
+   Total Loss: -1031.612274
+Epoch 97
+   TD Loss: 110.777287
+   CQL Penalty: -116.794110
+   Total Loss: -1057.163855
+Epoch 98
+   TD Loss: 106.532437
+   CQL Penalty: -116.812920
+   Total Loss: -1061.596729
+Epoch 99
+   TD Loss: 105.984476
+   CQL Penalty: -118.988096
+   Total Loss: -1083.896448
+Epoch 100
+   TD Loss: 107.842807
+   CQL Penalty: -120.521558
+   Total Loss: -1097.372791
+Epoch 101
+   TD Loss: 111.955505
+   CQL Penalty: -120.543133
+   Total Loss: -1093.475830
+Epoch 102
+   TD Loss: 108.782020
+   CQL Penalty: -123.034213
+   Total Loss: -1121.560095
+Epoch 103
+   TD Loss: 108.388298
+   CQL Penalty: -124.351974
+   Total Loss: -1135.131433
+Epoch 104
+   TD Loss: 113.746819
+   CQL Penalty: -124.974197
+   Total Loss: -1135.995142
+Epoch 105
+   TD Loss: 112.536318
+   CQL Penalty: -125.704564
+   Total Loss: -1144.509302
+Epoch 106
+   TD Loss: 111.967439
+   CQL Penalty: -128.396264
+   Total Loss: -1171.995190
+Epoch 107
+   TD Loss: 104.452249
+   CQL Penalty: -129.884711
+   Total Loss: -1194.394861
+Epoch 108
+   TD Loss: 108.591085
+   CQL Penalty: -129.798911
+   Total Loss: -1189.398022
+Epoch 109
+   TD Loss: 106.266086
+   CQL Penalty: -131.756615
+   Total Loss: -1211.300049
+Epoch 110
+   TD Loss: 107.699992
+   CQL Penalty: -132.834677
+   Total Loss: -1220.646753
+Epoch 111
+   TD Loss: 112.384665
+   CQL Penalty: -135.400406
+   Total Loss: -1241.619373
+Epoch 112
+   TD Loss: 116.866687
+   CQL Penalty: -136.155241
+   Total Loss: -1244.685718
+Epoch 113
+   TD Loss: 108.663061
+   CQL Penalty: -137.344119
+   Total Loss: -1264.778174
+Epoch 114
+   TD Loss: 109.473429
+   CQL Penalty: -138.360088
+   Total Loss: -1274.127441
+Epoch 115
+   TD Loss: 106.903767
+   CQL Penalty: -140.149448
+   Total Loss: -1294.590686
+Epoch 116
+   TD Loss: 112.010777
+   CQL Penalty: -142.200781
+   Total Loss: -1309.997046
+Epoch 117
+   TD Loss: 108.166496
+   CQL Penalty: -142.171294
+   Total Loss: -1313.546484
+Epoch 118
+   TD Loss: 112.891319
+   CQL Penalty: -144.434161
+   Total Loss: -1331.450317
+Epoch 119
+   TD Loss: 116.917879
+   CQL Penalty: -146.469858
+   Total Loss: -1347.780713
+Epoch 120
+   TD Loss: 120.751886
+   CQL Penalty: -147.453029
+   Total Loss: -1353.778394
+Epoch 121
+   TD Loss: 113.633771
+   CQL Penalty: -148.097681
+   Total Loss: -1367.343018
+Epoch 122
+   TD Loss: 116.174815
+   CQL Penalty: -148.872975
+   Total Loss: -1372.554944
+Epoch 123
+   TD Loss: 118.109169
+   CQL Penalty: -150.763936
+   Total Loss: -1389.530151
+Epoch 124
+   TD Loss: 112.017086
+   CQL Penalty: -151.522449
+   Total Loss: -1403.207397
+Epoch 125
+   TD Loss: 108.905917
+   CQL Penalty: -152.389388
+   Total Loss: -1414.987952
+Epoch 126
+   TD Loss: 112.413615
+   CQL Penalty: -154.413193
+   Total Loss: -1431.718323
+Epoch 127
+   TD Loss: 112.876883
+   CQL Penalty: -156.610976
+   Total Loss: -1453.232886
+Epoch 128
+   TD Loss: 110.186623
+   CQL Penalty: -156.720897
+   Total Loss: -1457.022351
+Epoch 129
+   TD Loss: 112.981814
+   CQL Penalty: -158.265880
+   Total Loss: -1469.676978
+Epoch 130
+   TD Loss: 121.108736
+   CQL Penalty: -161.060992
+   Total Loss: -1489.501233
+Epoch 131
+   TD Loss: 119.032055
+   CQL Penalty: -162.815340
+   Total Loss: -1509.121338
+Epoch 132
+   TD Loss: 116.199512
+   CQL Penalty: -163.062743
+   Total Loss: -1514.427942
+Epoch 133
+   TD Loss: 115.019638
+   CQL Penalty: -164.511928
+   Total Loss: -1530.099646
+Epoch 134
+   TD Loss: 120.653056
+   CQL Penalty: -165.058252
+   Total Loss: -1529.929468
+Epoch 135
+   TD Loss: 116.484362
+   CQL Penalty: -166.884731
+   Total Loss: -1552.362939
+Epoch 136
+   TD Loss: 120.295493
+   CQL Penalty: -168.100520
+   Total Loss: -1560.709705
+Epoch 137
+   TD Loss: 108.845751
+   CQL Penalty: -168.588805
+   Total Loss: -1577.042285
+Epoch 138
+   TD Loss: 112.059393
+   CQL Penalty: -170.449678
+   Total Loss: -1592.437390
+Epoch 139
+   TD Loss: 113.180390
+   CQL Penalty: -171.561194
+   Total Loss: -1602.431580
+Epoch 140
+   TD Loss: 121.246593
+   CQL Penalty: -173.579994
+   Total Loss: -1614.553320
+Epoch 141
+   TD Loss: 118.030495
+   CQL Penalty: -175.959570
+   Total Loss: -1641.565186
+Epoch 142
+   TD Loss: 121.824119
+   CQL Penalty: -177.013794
+   Total Loss: -1648.313818
+Epoch 143
+   TD Loss: 120.289034
+   CQL Penalty: -178.285240
+   Total Loss: -1662.563379
+Epoch 144
+   TD Loss: 116.615298
+   CQL Penalty: -178.454291
+   Total Loss: -1667.927625
+Epoch 145
+   TD Loss: 114.800757
+   CQL Penalty: -179.113878
+   Total Loss: -1676.337976
+Epoch 146
+   TD Loss: 115.400271
+   CQL Penalty: -181.977460
+   Total Loss: -1704.374329
+Epoch 147
+   TD Loss: 114.805761
+   CQL Penalty: -182.309673
+   Total Loss: -1708.290967
+Epoch 148
+   TD Loss: 113.648885
+   CQL Penalty: -184.726564
+   Total Loss: -1733.616711
+Epoch 149
+   TD Loss: 121.196315
+   CQL Penalty: -187.024956
+   Total Loss: -1749.053271
+Epoch 150
+   TD Loss: 121.726546
+   CQL Penalty: -187.800237
+   Total Loss: -1756.275830
+Epoch 151
+   TD Loss: 119.953484
+   CQL Penalty: -189.994516
+   Total Loss: -1779.991724
+Epoch 152
+   TD Loss: 120.188424
+   CQL Penalty: -190.732631
+   Total Loss: -1787.137939
+Epoch 153
+   TD Loss: 118.167330
+   CQL Penalty: -190.563527
+   Total Loss: -1787.467957
+Epoch 154
+   TD Loss: 115.383650
+   CQL Penalty: -191.654181
+   Total Loss: -1801.158215
+Epoch 155
+   TD Loss: 117.654635
+   CQL Penalty: -193.951155
+   Total Loss: -1821.856970
+Epoch 156
+   TD Loss: 120.076611
+   CQL Penalty: -195.584151
+   Total Loss: -1835.764917
+Epoch 157
+   TD Loss: 116.430907
+   CQL Penalty: -197.833531
+   Total Loss: -1861.904382
+Epoch 158
+   TD Loss: 126.555923
+   CQL Penalty: -197.177626
+   Total Loss: -1845.220325
+Epoch 159
+   TD Loss: 112.912136
+   CQL Penalty: -198.538112
+   Total Loss: -1872.469006
+Epoch 160
+   TD Loss: 118.234441
+   CQL Penalty: -202.073631
+   Total Loss: -1902.501892
+Epoch 161
+   TD Loss: 125.726292
+   CQL Penalty: -203.383360
+   Total Loss: -1908.107324
+Epoch 162
+   TD Loss: 121.905022
+   CQL Penalty: -204.720560
+   Total Loss: -1925.300598
+Epoch 163
+   TD Loss: 116.678273
+   CQL Penalty: -204.515770
+   Total Loss: -1928.479419
+Epoch 164
+   TD Loss: 120.811391
+   CQL Penalty: -206.297575
+   Total Loss: -1942.164355
+Epoch 165
+   TD Loss: 121.229714
+   CQL Penalty: -207.592404
+   Total Loss: -1954.694336
+Epoch 166
+   TD Loss: 118.092187
+   CQL Penalty: -210.708371
+   Total Loss: -1988.991516
+Epoch 167
+   TD Loss: 122.078568
+   CQL Penalty: -209.382204
+   Total Loss: -1971.743469
+Epoch 168
+   TD Loss: 123.236270
+   CQL Penalty: -213.076187
+   Total Loss: -2007.525623
+Epoch 169
+   TD Loss: 121.063136
+   CQL Penalty: -213.624272
+   Total Loss: -2015.179565
+Epoch 170
+   TD Loss: 123.672309
+   CQL Penalty: -213.029463
+   Total Loss: -2006.622327
+Epoch 171
+   TD Loss: 124.669591
+   CQL Penalty: -216.560756
+   Total Loss: -2040.938000
+Epoch 172
+   TD Loss: 117.166383
+   CQL Penalty: -217.434795
+   Total Loss: -2057.181604
+Epoch 173
+   TD Loss: 122.750438
+   CQL Penalty: -218.329253
+   Total Loss: -2060.542102
+Epoch 174
+   TD Loss: 121.881979
+   CQL Penalty: -218.882570
+   Total Loss: -2066.943677
+Epoch 175
+   TD Loss: 121.418296
+   CQL Penalty: -220.394270
+   Total Loss: -2082.524463
+Epoch 176
+   TD Loss: 114.372524
+   CQL Penalty: -223.104346
+   Total Loss: -2116.670947
+Epoch 177
+   TD Loss: 123.708927
+   CQL Penalty: -223.369237
+   Total Loss: -2109.983423
+Epoch 178
+   TD Loss: 125.941213
+   CQL Penalty: -225.206215
+   Total Loss: -2126.120923
+Epoch 179
+   TD Loss: 123.860149
+   CQL Penalty: -226.005577
+   Total Loss: -2136.195605
+Epoch 180
+   TD Loss: 118.278568
+   CQL Penalty: -228.747635
+   Total Loss: -2169.197803
+Epoch 181
+   TD Loss: 118.597112
+   CQL Penalty: -227.884564
+   Total Loss: -2160.248560
+Epoch 182
+   TD Loss: 128.008134
+   CQL Penalty: -230.735506
+   Total Loss: -2179.346899
+Epoch 183
+   TD Loss: 119.448414
+   CQL Penalty: -232.135291
+   Total Loss: -2201.904443
+Epoch 184
+   TD Loss: 119.346224
+   CQL Penalty: -233.416525
+   Total Loss: -2214.819043
+Epoch 185
+   TD Loss: 121.552340
+   CQL Penalty: -235.307507
+   Total Loss: -2231.522729
+Epoch 186
+   TD Loss: 128.937822
+   CQL Penalty: -236.617680
+   Total Loss: -2237.238940
+Epoch 187
+   TD Loss: 120.364629
+   CQL Penalty: -237.868253
+   Total Loss: -2258.317944
+Epoch 188
+   TD Loss: 116.825956
+   CQL Penalty: -239.596872
+   Total Loss: -2279.142725
+Epoch 189
+   TD Loss: 122.810831
+   CQL Penalty: -240.911595
+   Total Loss: -2286.305176
+Epoch 190
+   TD Loss: 119.057915
+   CQL Penalty: -242.778186
+   Total Loss: -2308.723950
+Epoch 191
+   TD Loss: 122.004743
+   CQL Penalty: -244.778381
+   Total Loss: -2325.779077
+Epoch 192
+   TD Loss: 125.952636
+   CQL Penalty: -246.574402
+   Total Loss: -2339.791382
+Epoch 193
+   TD Loss: 124.694835
+   CQL Penalty: -247.559641
+   Total Loss: -2350.901660
+Epoch 194
+   TD Loss: 129.894951
+   CQL Penalty: -248.824327
+   Total Loss: -2358.348315
+Epoch 195
+   TD Loss: 126.746909
+   CQL Penalty: -250.263066
+   Total Loss: -2375.883813
+Epoch 196
+   TD Loss: 124.460190
+   CQL Penalty: -251.475781
+   Total Loss: -2390.297632
+Epoch 197
+   TD Loss: 121.260316
+   CQL Penalty: -251.020139
+   Total Loss: -2388.941064
+Epoch 198
+   TD Loss: 118.910541
+   CQL Penalty: -253.932744
+   Total Loss: -2420.416992
+Epoch 199
+   TD Loss: 123.271177
+   CQL Penalty: -254.325832
+   Total Loss: -2419.987085
+Epoch 200
+   TD Loss: 128.170287
+   CQL Penalty: -256.762700
+   Total Loss: -2439.456714
+Epoch 201
+   TD Loss: 132.581002
+   CQL Penalty: -258.265332
+   Total Loss: -2450.072266
+Epoch 202
+   TD Loss: 125.352427
+   CQL Penalty: -259.868414
+   Total Loss: -2473.331738
+Epoch 203
+   TD Loss: 121.522260
+   CQL Penalty: -261.824353
+   Total Loss: -2496.721265
+Epoch 204
+   TD Loss: 123.886112
+   CQL Penalty: -261.589163
+   Total Loss: -2492.005542
+Epoch 205
+   TD Loss: 125.893304
+   CQL Penalty: -263.696933
+   Total Loss: -2511.076001
+Epoch 206
+   TD Loss: 129.712083
+   CQL Penalty: -263.923282
+   Total Loss: -2509.520679
+Epoch 207
+   TD Loss: 125.326679
+   CQL Penalty: -266.058514
+   Total Loss: -2535.258398
+Epoch 208
+   TD Loss: 128.114714
+   CQL Penalty: -268.172305
+   Total Loss: -2553.608350
+Epoch 209
+   TD Loss: 124.097927
+   CQL Penalty: -269.057339
+   Total Loss: -2566.475464
+Epoch 210
+   TD Loss: 117.794105
+   CQL Penalty: -270.254578
+   Total Loss: -2584.751611
+Epoch 211
+   TD Loss: 124.838084
+   CQL Penalty: -273.102020
+   Total Loss: -2606.182104
+Epoch 212
+   TD Loss: 134.974932
+   CQL Penalty: -274.688052
+   Total Loss: -2611.905664
+Epoch 213
+   TD Loss: 131.622137
+   CQL Penalty: -275.051779
+   Total Loss: -2618.895630
+Epoch 214
+   TD Loss: 125.667810
+   CQL Penalty: -276.398355
+   Total Loss: -2638.315698
+Epoch 215
+   TD Loss: 124.858125
+   CQL Penalty: -278.851785
+   Total Loss: -2663.659790
+Epoch 216
+   TD Loss: 130.826034
+   CQL Penalty: -280.259665
+   Total Loss: -2671.770630
+Epoch 217
+   TD Loss: 126.487957
+   CQL Penalty: -280.596674
+   Total Loss: -2679.478784
+Epoch 218
+   TD Loss: 125.733411
+   CQL Penalty: -282.753546
+   Total Loss: -2701.802075
+Epoch 219
+   TD Loss: 133.908868
+   CQL Penalty: -284.244907
+   Total Loss: -2708.540210
+Epoch 220
+   TD Loss: 124.475326
+   CQL Penalty: -283.522086
+   Total Loss: -2710.745581
+Epoch 221
+   TD Loss: 125.093987
+   CQL Penalty: -285.918628
+   Total Loss: -2734.092285
+Epoch 222
+   TD Loss: 133.134236
+   CQL Penalty: -287.872867
+   Total Loss: -2745.594409
+Epoch 223
+   TD Loss: 125.944888
+   CQL Penalty: -288.511218
+   Total Loss: -2759.167261
+Epoch 224
+   TD Loss: 122.786216
+   CQL Penalty: -290.316934
+   Total Loss: -2780.383105
+Epoch 225
+   TD Loss: 121.233205
+   CQL Penalty: -292.507040
+   Total Loss: -2803.837183
+Epoch 226
+   TD Loss: 132.985864
+   CQL Penalty: -294.858688
+   Total Loss: -2815.601099
+Epoch 227
+   TD Loss: 125.413023
+   CQL Penalty: -294.837827
+   Total Loss: -2822.965259
+Epoch 228
+   TD Loss: 128.494634
+   CQL Penalty: -295.893500
+   Total Loss: -2830.440332
+Epoch 229
+   TD Loss: 125.066959
+   CQL Penalty: -297.559198
+   Total Loss: -2850.525073
+Epoch 230
+   TD Loss: 137.578651
+   CQL Penalty: -299.733142
+   Total Loss: -2859.752734
+Epoch 231
+   TD Loss: 128.923735
+   CQL Penalty: -301.584039
+   Total Loss: -2886.916626
+Epoch 232
+   TD Loss: 134.845910
+   CQL Penalty: -302.316699
+   Total Loss: -2888.321094
+Epoch 233
+   TD Loss: 125.688257
+   CQL Penalty: -301.491183
+   Total Loss: -2889.223584
+Epoch 234
+   TD Loss: 127.104587
+   CQL Penalty: -305.293143
+   Total Loss: -2925.826855
+Epoch 235
+   TD Loss: 135.607188
+   CQL Penalty: -307.455240
+   Total Loss: -2938.945166
+Epoch 236
+   TD Loss: 128.141179
+   CQL Penalty: -309.414661
+   Total Loss: -2966.005444
+Epoch 237
+   TD Loss: 128.699747
+   CQL Penalty: -309.188409
+   Total Loss: -2963.184399
+Epoch 238
+   TD Loss: 136.183530
+   CQL Penalty: -311.983279
+   Total Loss: -2983.649219
+Epoch 239
+   TD Loss: 136.047451
+   CQL Penalty: -312.493414
+   Total Loss: -2988.886719
+Epoch 240
+   TD Loss: 125.917421
+   CQL Penalty: -313.414679
+   Total Loss: -3008.229370
+Epoch 241
+   TD Loss: 122.598009
+   CQL Penalty: -313.032330
+   Total Loss: -3007.725293
+Epoch 242
+   TD Loss: 123.433525
+   CQL Penalty: -315.021097
+   Total Loss: -3026.777441
+Epoch 243
+   TD Loss: 135.610590
+   CQL Penalty: -316.666916
+   Total Loss: -3031.058643
+Epoch 244
+   TD Loss: 131.940044
+   CQL Penalty: -319.064297
+   Total Loss: -3058.703003
+Epoch 245
+   TD Loss: 124.788496
+   CQL Penalty: -318.631979
+   Total Loss: -3061.531348
+Epoch 246
+   TD Loss: 129.316200
+   CQL Penalty: -322.596698
+   Total Loss: -3096.650806
+Epoch 247
+   TD Loss: 135.577370
+   CQL Penalty: -323.351981
+   Total Loss: -3097.942407
+Epoch 248
+   TD Loss: 128.046864
+   CQL Penalty: -324.809000
+   Total Loss: -3120.043066
+Epoch 249
+   TD Loss: 132.050153
+   CQL Penalty: -326.561197
+   Total Loss: -3133.561743
+Epoch 250
+   TD Loss: 132.833572
+   CQL Penalty: -328.359500
+   Total Loss: -3150.761450
+Epoch 251
+   TD Loss: 133.520318
+   CQL Penalty: -328.439069
+   Total Loss: -3150.870337
+Epoch 252
+   TD Loss: 127.411311
+   CQL Penalty: -329.430145
+   Total Loss: -3166.890161
+Epoch 253
+   TD Loss: 130.386814
+   CQL Penalty: -331.388669
+   Total Loss: -3183.499927
+Epoch 254
+   TD Loss: 130.919519
+   CQL Penalty: -332.870932
+   Total Loss: -3197.789795
+Epoch 255
+   TD Loss: 125.058233
+   CQL Penalty: -334.286490
+   Total Loss: -3217.806641
+Epoch 256
+   TD Loss: 130.841649
+   CQL Penalty: -336.444504
+   Total Loss: -3233.603369
+Epoch 257
+   TD Loss: 133.569911
+   CQL Penalty: -337.400708
+   Total Loss: -3240.437256
+Epoch 258
+   TD Loss: 140.529092
+   CQL Penalty: -338.274615
+   Total Loss: -3242.216968
+Epoch 259
+   TD Loss: 131.139335
+   CQL Penalty: -340.068896
+   Total Loss: -3269.549658
+Epoch 260
+   TD Loss: 126.307774
+   CQL Penalty: -343.007956
+   Total Loss: -3303.771777
+Epoch 261
+   TD Loss: 132.149410
+   CQL Penalty: -344.212668
+   Total Loss: -3309.977246
+Epoch 262
+   TD Loss: 133.362270
+   CQL Penalty: -344.436703
+   Total Loss: -3311.004785
+Epoch 263
+   TD Loss: 135.378429
+   CQL Penalty: -346.650360
+   Total Loss: -3331.125146
+Epoch 264
+   TD Loss: 128.096739
+   CQL Penalty: -345.969522
+   Total Loss: -3331.598462
+Epoch 265
+   TD Loss: 132.354269
+   CQL Penalty: -348.813409
+   Total Loss: -3355.779810
+Epoch 266
+   TD Loss: 131.644652
+   CQL Penalty: -350.450842
+   Total Loss: -3372.863770
+Epoch 267
+   TD Loss: 139.710002
+   CQL Penalty: -351.754349
+   Total Loss: -3377.833374
+Epoch 268
+   TD Loss: 133.436718
+   CQL Penalty: -353.059842
+   Total Loss: -3397.161670
+Epoch 269
+   TD Loss: 126.294820
+   CQL Penalty: -351.479736
+   Total Loss: -3388.502441
+Epoch 270
+   TD Loss: 130.434464
+   CQL Penalty: -353.246765
+   Total Loss: -3402.033228
+Epoch 271
+   TD Loss: 134.543597
+   CQL Penalty: -357.813666
+   Total Loss: -3443.593042
+Epoch 272
+   TD Loss: 143.047157
+   CQL Penalty: -356.819705
+   Total Loss: -3425.149927
+Epoch 273
+   TD Loss: 126.969672
+   CQL Penalty: -357.854901
+   Total Loss: -3451.579321
+Epoch 274
+   TD Loss: 134.428169
+   CQL Penalty: -362.232660
+   Total Loss: -3487.898462
+Epoch 275
+   TD Loss: 132.915400
+   CQL Penalty: -363.011157
+   Total Loss: -3497.196143
+Epoch 276
+   TD Loss: 134.115581
+   CQL Penalty: -364.164606
+   Total Loss: -3507.530493
+Epoch 277
+   TD Loss: 135.834291
+   CQL Penalty: -365.530896
+   Total Loss: -3519.474634
+Epoch 278
+   TD Loss: 137.590247
+   CQL Penalty: -369.175049
+   Total Loss: -3554.160205
+Epoch 279
+   TD Loss: 125.760896
+   CQL Penalty: -369.425671
+   Total Loss: -3568.495776
+Epoch 280
+   TD Loss: 131.803909
+   CQL Penalty: -368.662714
+   Total Loss: -3554.823169
+Epoch 281
+   TD Loss: 134.182950
+   CQL Penalty: -370.522913
+   Total Loss: -3571.046143
+Epoch 282
+   TD Loss: 136.591499
+   CQL Penalty: -372.375702
+   Total Loss: -3587.165503
+Epoch 283
+   TD Loss: 135.485973
+   CQL Penalty: -375.600055
+   Total Loss: -3620.514600
+Epoch 284
+   TD Loss: 123.682217
+   CQL Penalty: -375.104712
+   Total Loss: -3627.364941
+Epoch 285
+   TD Loss: 134.547121
+   CQL Penalty: -378.701917
+   Total Loss: -3652.472070
+Epoch 286
+   TD Loss: 137.306170
+   CQL Penalty: -378.050171
+   Total Loss: -3643.195557
+Epoch 287
+   TD Loss: 129.502632
+   CQL Penalty: -379.143161
+   Total Loss: -3661.929053
+Epoch 288
+   TD Loss: 145.074973
+   CQL Penalty: -381.761270
+   Total Loss: -3672.537671
+Epoch 289
+   TD Loss: 137.975578
+   CQL Penalty: -383.047412
+   Total Loss: -3692.498511
+Epoch 290
+   TD Loss: 134.215512
+   CQL Penalty: -384.984741
+   Total Loss: -3715.631885
+Epoch 291
+   TD Loss: 126.840671
+   CQL Penalty: -386.255954
+   Total Loss: -3735.718970
+Epoch 292
+   TD Loss: 129.046729
+   CQL Penalty: -387.357730
+   Total Loss: -3744.530518
+Epoch 293
+   TD Loss: 131.261294
+   CQL Penalty: -387.465356
+   Total Loss: -3743.392261
+Epoch 294
+   TD Loss: 142.001830
+   CQL Penalty: -390.288086
+   Total Loss: -3760.878979
+Epoch 295
+   TD Loss: 127.210464
+   CQL Penalty: -390.816672
+   Total Loss: -3780.956250
+Epoch 296
+   TD Loss: 139.038330
+   CQL Penalty: -393.230511
+   Total Loss: -3793.266699
+Epoch 297
+   TD Loss: 133.375168
+   CQL Penalty: -393.430276
+   Total Loss: -3800.927588
+Epoch 298
+   TD Loss: 130.959313
+   CQL Penalty: -394.186206
+   Total Loss: -3810.902637
+Epoch 299
+   TD Loss: 139.339259
+   CQL Penalty: -396.677277
+   Total Loss: -3827.433496
+Epoch 300
+   TD Loss: 134.221497
+   CQL Penalty: -399.181027
+   Total Loss: -3857.588745
+Epoch 301
+   TD Loss: 141.430212
+   CQL Penalty: -399.132892
+   Total Loss: -3849.898755
+Epoch 302
+   TD Loss: 137.688457
+   CQL Penalty: -401.855276
+   Total Loss: -3880.864355
+Epoch 303
+   TD Loss: 134.221049
+   CQL Penalty: -402.928873
+   Total Loss: -3895.067676
+Epoch 304
+   TD Loss: 134.191055
+   CQL Penalty: -403.838428
+   Total Loss: -3904.193213
+Epoch 305
+   TD Loss: 131.984969
+   CQL Penalty: -405.736960
+   Total Loss: -3925.384644
+Epoch 306
+   TD Loss: 132.888960
+   CQL Penalty: -407.438950
+   Total Loss: -3941.500586
+Epoch 307
+   TD Loss: 139.295363
+   CQL Penalty: -409.949490
+   Total Loss: -3960.199561
+Epoch 308
+   TD Loss: 134.631107
+   CQL Penalty: -410.077924
+   Total Loss: -3966.148218
+Epoch 309
+   TD Loss: 137.562123
+   CQL Penalty: -409.000388
+   Total Loss: -3952.441772
+Epoch 310
+   TD Loss: 131.670378
+   CQL Penalty: -413.934650
+   Total Loss: -4007.676147
+Epoch 311
+   TD Loss: 135.915160
+   CQL Penalty: -412.634985
+   Total Loss: -3990.434717
+Epoch 312
+   TD Loss: 141.094591
+   CQL Penalty: -415.046295
+   Total Loss: -4009.368335
+Epoch 313
+   TD Loss: 145.950190
+   CQL Penalty: -419.951758
+   Total Loss: -4053.567407
+Epoch 314
+   TD Loss: 125.684253
+   CQL Penalty: -416.646954
+   Total Loss: -4040.785327
+Epoch 315
+   TD Loss: 134.488960
+   CQL Penalty: -419.511627
+   Total Loss: -4060.627344
+Epoch 316
+   TD Loss: 145.328151
+   CQL Penalty: -421.981915
+   Total Loss: -4074.490967
+Epoch 317
+   TD Loss: 144.474794
+   CQL Penalty: -423.706866
+   Total Loss: -4092.593823
+Epoch 318
+   TD Loss: 124.388719
+   CQL Penalty: -423.700815
+   Total Loss: -4112.619482
+Epoch 319
+   TD Loss: 130.351704
+   CQL Penalty: -425.846884
+   Total Loss: -4128.117041
+Epoch 320
+   TD Loss: 151.400334
+   CQL Penalty: -428.246945
+   Total Loss: -4131.069092
+Epoch 321
+   TD Loss: 142.993192
+   CQL Penalty: -430.001062
+   Total Loss: -4157.017383
+Epoch 322
+   TD Loss: 133.540297
+   CQL Penalty: -429.368527
+   Total Loss: -4160.144922
+Epoch 323
+   TD Loss: 133.875491
+   CQL Penalty: -430.870911
+   Total Loss: -4174.833691
+Epoch 324
+   TD Loss: 135.162476
+   CQL Penalty: -434.316171
+   Total Loss: -4207.999365
+Epoch 325
+   TD Loss: 138.269587
+   CQL Penalty: -434.724103
+   Total Loss: -4208.971387
+Epoch 326
+   TD Loss: 140.749213
+   CQL Penalty: -437.297684
+   Total Loss: -4232.227637
+Epoch 327
+   TD Loss: 137.553069
+   CQL Penalty: -435.581903
+   Total Loss: -4218.266016
+Epoch 328
+   TD Loss: 139.251622
+   CQL Penalty: -440.190536
+   Total Loss: -4262.653662
+Epoch 329
+   TD Loss: 133.086692
+   CQL Penalty: -439.344958
+   Total Loss: -4260.363037
+Epoch 330
+   TD Loss: 142.187361
+   CQL Penalty: -441.909155
+   Total Loss: -4276.904150
+Epoch 331
+   TD Loss: 147.819235
+   CQL Penalty: -440.647424
+   Total Loss: -4258.655029
+Epoch 332
+   TD Loss: 135.964423
+   CQL Penalty: -442.071475
+   Total Loss: -4284.750244
+Epoch 333
+   TD Loss: 127.772962
+   CQL Penalty: -444.331754
+   Total Loss: -4315.544580
+Epoch 334
+   TD Loss: 141.312976
+   CQL Penalty: -450.097076
+   Total Loss: -4359.657910
+Epoch 335
+   TD Loss: 140.035595
+   CQL Penalty: -450.809607
+   Total Loss: -4368.060449
+Epoch 336
+   TD Loss: 133.576789
+   CQL Penalty: -447.749960
+   Total Loss: -4343.922852
+Epoch 337
+   TD Loss: 134.938058
+   CQL Penalty: -451.480469
+   Total Loss: -4379.866602
+Epoch 338
+   TD Loss: 140.314865
+   CQL Penalty: -454.761432
+   Total Loss: -4407.299414
+Epoch 339
+   TD Loss: 149.539965
+   CQL Penalty: -456.623386
+   Total Loss: -4416.693994
+Epoch 340
+   TD Loss: 129.510474
+   CQL Penalty: -453.444708
+   Total Loss: -4404.936572
+Epoch 341
+   TD Loss: 140.809895
+   CQL Penalty: -458.787970
+   Total Loss: -4447.069824
+Epoch 342
+   TD Loss: 142.589876
+   CQL Penalty: -459.956186
+   Total Loss: -4456.971973
+Epoch 343
+   TD Loss: 146.667269
+   CQL Penalty: -461.007681
+   Total Loss: -4463.409668
+Epoch 344
+   TD Loss: 133.428134
+   CQL Penalty: -459.976263
+   Total Loss: -4466.334521
+Epoch 345
+   TD Loss: 134.979608
+   CQL Penalty: -460.950558
+   Total Loss: -4474.525879
+Epoch 346
+   TD Loss: 142.718631
+   CQL Penalty: -465.627063
+   Total Loss: -4513.551904
+Epoch 347
+   TD Loss: 146.105061
+   CQL Penalty: -464.589108
+   Total Loss: -4499.786182
+Epoch 348
+   TD Loss: 135.185611
+   CQL Penalty: -467.279559
+   Total Loss: -4537.609912
+Epoch 349
+   TD Loss: 130.441563
+   CQL Penalty: -467.630936
+   Total Loss: -4545.867822
+Epoch 350
+   TD Loss: 148.561665
+   CQL Penalty: -472.337839
+   Total Loss: -4574.816699
+Epoch 351
+   TD Loss: 141.980771
+   CQL Penalty: -470.640729
+   Total Loss: -4564.426562
+Epoch 352
+   TD Loss: 140.895122
+   CQL Penalty: -473.360886
+   Total Loss: -4592.713770
+Epoch 353
+   TD Loss: 141.560115
+   CQL Penalty: -474.858926
+   Total Loss: -4607.029102
+Epoch 354
+   TD Loss: 140.692278
+   CQL Penalty: -472.239905
+   Total Loss: -4581.706885
+Epoch 355
+   TD Loss: 136.267572
+   CQL Penalty: -477.432520
+   Total Loss: -4638.057764
+Epoch 356
+   TD Loss: 135.388215
+   CQL Penalty: -476.528317
+   Total Loss: -4629.894922
+Epoch 357
+   TD Loss: 147.233263
+   CQL Penalty: -479.622922
+   Total Loss: -4648.995850
+Epoch 358
+   TD Loss: 143.372467
+   CQL Penalty: -482.580530
+   Total Loss: -4682.432715
+Epoch 359
+   TD Loss: 131.718376
+   CQL Penalty: -482.337796
+   Total Loss: -4691.659570
+Epoch 360
+   TD Loss: 136.321127
+   CQL Penalty: -483.346970
+   Total Loss: -4697.148633
+Epoch 361
+   TD Loss: 147.690640
+   CQL Penalty: -488.216815
+   Total Loss: -4734.477490
+Epoch 362
+   TD Loss: 145.717859
+   CQL Penalty: -489.418625
+   Total Loss: -4748.468311
+Epoch 363
+   TD Loss: 141.532965
+   CQL Penalty: -487.250351
+   Total Loss: -4730.970654
+Epoch 364
+   TD Loss: 139.679723
+   CQL Penalty: -488.815024
+   Total Loss: -4748.470264
+Epoch 365
+   TD Loss: 142.634491
+   CQL Penalty: -490.402057
+   Total Loss: -4761.386133
+Epoch 366
+   TD Loss: 135.189693
+   CQL Penalty: -493.164853
+   Total Loss: -4796.458789
+Epoch 367
+   TD Loss: 141.732783
+   CQL Penalty: -495.577109
+   Total Loss: -4814.038330
+Epoch 368
+   TD Loss: 140.729547
+   CQL Penalty: -496.358554
+   Total Loss: -4822.856006
+Epoch 369
+   TD Loss: 142.081131
+   CQL Penalty: -496.996405
+   Total Loss: -4827.883057
+Epoch 370
+   TD Loss: 137.831561
+   CQL Penalty: -498.495480
+   Total Loss: -4847.123145
+Epoch 371
+   TD Loss: 137.861549
+   CQL Penalty: -499.131491
+   Total Loss: -4853.453320
+Epoch 372
+   TD Loss: 134.520676
+   CQL Penalty: -502.408139
+   Total Loss: -4889.560791
+Epoch 373
+   TD Loss: 148.201329
+   CQL Penalty: -501.403992
+   Total Loss: -4865.838770
+Epoch 374
+   TD Loss: 141.835396
+   CQL Penalty: -503.988733
+   Total Loss: -4898.051855
+Epoch 375
+   TD Loss: 137.406156
+   CQL Penalty: -507.779953
+   Total Loss: -4940.393359
+Epoch 376
+   TD Loss: 149.124248
+   CQL Penalty: -506.262070
+   Total Loss: -4913.496533
+Epoch 377
+   TD Loss: 147.041329
+   CQL Penalty: -511.635605
+   Total Loss: -4969.314795
+Epoch 378
+   TD Loss: 138.138181
+   CQL Penalty: -511.835947
+   Total Loss: -4980.221094
+Epoch 379
+   TD Loss: 146.761970
+   CQL Penalty: -513.088370
+   Total Loss: -4984.121729
+Epoch 380
+   TD Loss: 133.619075
+   CQL Penalty: -512.885089
+   Total Loss: -4995.231836
+Epoch 381
+   TD Loss: 141.158438
+   CQL Penalty: -513.588321
+   Total Loss: -4994.724658
+Epoch 382
+   TD Loss: 149.779361
+   CQL Penalty: -517.568860
+   Total Loss: -5025.909375
+Epoch 383
+   TD Loss: 138.819108
+   CQL Penalty: -518.472821
+   Total Loss: -5045.909131
+Epoch 384
+   TD Loss: 143.518372
+   CQL Penalty: -518.429156
+   Total Loss: -5040.773145
+Epoch 385
+   TD Loss: 133.576552
+   CQL Penalty: -517.136179
+   Total Loss: -5037.785156
+Epoch 386
+   TD Loss: 135.676735
+   CQL Penalty: -521.349323
+   Total Loss: -5077.816406
+Epoch 387
+   TD Loss: 149.622086
+   CQL Penalty: -523.375110
+   Total Loss: -5084.129150
+Epoch 388
+   TD Loss: 143.471391
+   CQL Penalty: -525.869421
+   Total Loss: -5115.222852
+Epoch 389
+   TD Loss: 142.833231
+   CQL Penalty: -527.917816
+   Total Loss: -5136.345020
+Epoch 390
+   TD Loss: 150.993671
+   CQL Penalty: -526.323926
+   Total Loss: -5112.245752
+Epoch 391
+   TD Loss: 144.364326
+   CQL Penalty: -527.281445
+   Total Loss: -5128.450098
+Epoch 392
+   TD Loss: 138.074945
+   CQL Penalty: -531.786713
+   Total Loss: -5179.792236
+Epoch 393
+   TD Loss: 134.567442
+   CQL Penalty: -530.562677
+   Total Loss: -5171.059424
+Epoch 394
+   TD Loss: 144.334653
+   CQL Penalty: -531.561981
+   Total Loss: -5171.285156
+Epoch 395
+   TD Loss: 150.144028
+   CQL Penalty: -534.413409
+   Total Loss: -5193.990137
+Epoch 396
+   TD Loss: 135.589706
+   CQL Penalty: -533.853198
+   Total Loss: -5202.942285
+Epoch 397
+   TD Loss: 139.386401
+   CQL Penalty: -541.431787
+   Total Loss: -5274.931543
+Epoch 398
+   TD Loss: 153.398262
+   CQL Penalty: -541.429926
+   Total Loss: -5260.901074
+Epoch 399
+   TD Loss: 149.677582
+   CQL Penalty: -541.150769
+   Total Loss: -5261.830078
+Epoch 400
+   TD Loss: 135.447192
+   CQL Penalty: -541.207727
+   Total Loss: -5276.629883
+Epoch 401
+   TD Loss: 139.228260
+   CQL Penalty: -545.092676
+   Total Loss: -5311.698535
+Epoch 402
+   TD Loss: 145.430542
+   CQL Penalty: -544.343750
+   Total Loss: -5298.006982
+Epoch 403
+   TD Loss: 137.986729
+   CQL Penalty: -544.531879
+   Total Loss: -5307.331885
+Epoch 404
+   TD Loss: 149.430547
+   CQL Penalty: -547.557617
+   Total Loss: -5326.145508
+Epoch 405
+   TD Loss: 146.541019
+   CQL Penalty: -551.360736
+   Total Loss: -5367.066260
+Epoch 406
+   TD Loss: 146.815552
+   CQL Penalty: -549.721600
+   Total Loss: -5350.400439
+Epoch 407
+   TD Loss: 141.570944
+   CQL Penalty: -552.774078
+   Total Loss: -5386.169922
+Epoch 408
+   TD Loss: 141.661376
+   CQL Penalty: -554.381970
+   Total Loss: -5402.158301
+Epoch 409
+   TD Loss: 135.454592
+   CQL Penalty: -556.275067
+   Total Loss: -5427.295996
+Epoch 410
+   TD Loss: 145.713496
+   CQL Penalty: -556.922144
+   Total Loss: -5423.507764
+Epoch 411
+   TD Loss: 153.221056
+   CQL Penalty: -555.883746
+   Total Loss: -5405.616406
+Epoch 412
+   TD Loss: 151.026050
+   CQL Penalty: -560.128583
+   Total Loss: -5450.259717
+Epoch 413
+   TD Loss: 140.489729
+   CQL Penalty: -558.908582
+   Total Loss: -5448.595996
+Epoch 414
+   TD Loss: 148.030927
+   CQL Penalty: -563.923853
+   Total Loss: -5491.207520
+Epoch 415
+   TD Loss: 131.930389
+   CQL Penalty: -562.095404
+   Total Loss: -5489.023584
+Epoch 416
+   TD Loss: 146.863794
+   CQL Penalty: -566.635101
+   Total Loss: -5519.487207
+Epoch 417
+   TD Loss: 151.905373
+   CQL Penalty: -567.739001
+   Total Loss: -5525.484717
+Epoch 418
+   TD Loss: 138.655782
+   CQL Penalty: -568.226422
+   Total Loss: -5543.608545
+Epoch 419
+   TD Loss: 152.561438
+   CQL Penalty: -572.683929
+   Total Loss: -5574.277783
+Epoch 420
+   TD Loss: 140.124461
+   CQL Penalty: -572.142157
+   Total Loss: -5581.296924
+Epoch 421
+   TD Loss: 152.467221
+   CQL Penalty: -571.778796
+   Total Loss: -5565.320605
+Epoch 422
+   TD Loss: 146.369925
+   CQL Penalty: -576.634625
+   Total Loss: -5619.976318
+Epoch 423
+   TD Loss: 149.107721
+   CQL Penalty: -576.579865
+   Total Loss: -5616.691064
+Epoch 424
+   TD Loss: 142.554205
+   CQL Penalty: -578.221161
+   Total Loss: -5639.657373
+Epoch 425
+   TD Loss: 141.677496
+   CQL Penalty: -577.792621
+   Total Loss: -5636.248828
+Epoch 426
+   TD Loss: 147.828540
+   CQL Penalty: -579.055774
+   Total Loss: -5642.729297
+Epoch 427
+   TD Loss: 155.889442
+   CQL Penalty: -583.099463
+   Total Loss: -5675.105176
+Epoch 428
+   TD Loss: 141.408884
+   CQL Penalty: -581.659070
+   Total Loss: -5675.181934
+Epoch 429
+   TD Loss: 145.375507
+   CQL Penalty: -585.794067
+   Total Loss: -5712.565088
+Epoch 430
+   TD Loss: 149.127202
+   CQL Penalty: -586.381274
+   Total Loss: -5714.685596
+Epoch 431
+   TD Loss: 147.804301
+   CQL Penalty: -587.829987
+   Total Loss: -5730.495654
+Epoch 432
+   TD Loss: 135.924019
+   CQL Penalty: -586.953699
+   Total Loss: -5733.613037
+Epoch 433
+   TD Loss: 146.080559
+   CQL Penalty: -589.546289
+   Total Loss: -5749.382422
+Epoch 434
+   TD Loss: 155.761581
+   CQL Penalty: -592.014594
+   Total Loss: -5764.384229
+Epoch 435
+   TD Loss: 139.872942
+   CQL Penalty: -591.314471
+   Total Loss: -5773.271631
+Epoch 436
+   TD Loss: 151.568311
+   CQL Penalty: -597.115808
+   Total Loss: -5819.589648
+Epoch 437
+   TD Loss: 148.764920
+   CQL Penalty: -593.783459
+   Total Loss: -5789.069580
+Epoch 438
+   TD Loss: 139.142032
+   CQL Penalty: -596.590955
+   Total Loss: -5826.767627
+Epoch 439
+   TD Loss: 134.049873
+   CQL Penalty: -598.030225
+   Total Loss: -5846.252490
+Epoch 440
+   TD Loss: 141.994199
+   CQL Penalty: -597.802368
+   Total Loss: -5836.029492
+Epoch 441
+   TD Loss: 149.319370
+   CQL Penalty: -602.140076
+   Total Loss: -5872.081299
+Epoch 442
+   TD Loss: 155.518015
+   CQL Penalty: -603.142859
+   Total Loss: -5875.910498
+Epoch 443
+   TD Loss: 136.266518
+   CQL Penalty: -605.641956
+   Total Loss: -5920.153223
+Epoch 444
+   TD Loss: 140.988522
+   CQL Penalty: -604.237152
+   Total Loss: -5901.383008
+Epoch 445
+   TD Loss: 162.853490
+   CQL Penalty: -605.051703
+   Total Loss: -5887.663525
+Epoch 446
+   TD Loss: 141.090239
+   CQL Penalty: -606.962982
+   Total Loss: -5928.539502
+Epoch 447
+   TD Loss: 142.021754
+   CQL Penalty: -612.281573
+   Total Loss: -5980.793896
+Epoch 448
+   TD Loss: 159.608560
+   CQL Penalty: -611.547272
+   Total Loss: -5955.864111
+Epoch 449
+   TD Loss: 151.737085
+   CQL Penalty: -610.397015
+   Total Loss: -5952.233105
+Epoch 450
+   TD Loss: 140.433018
+   CQL Penalty: -614.134534
+   Total Loss: -6000.912305
+Epoch 451
+   TD Loss: 146.746462
+   CQL Penalty: -616.156653
+   Total Loss: -6014.820117
+Epoch 452
+   TD Loss: 145.011643
+   CQL Penalty: -616.725891
+   Total Loss: -6022.247363
+Epoch 453
+   TD Loss: 149.273184
+   CQL Penalty: -617.883301
+   Total Loss: -6029.559717
+Epoch 454
+   TD Loss: 138.675789
+   CQL Penalty: -619.077722
+   Total Loss: -6052.101465
+Epoch 455
+   TD Loss: 144.616722
+   CQL Penalty: -622.291864
+   Total Loss: -6078.302051
+Epoch 456
+   TD Loss: 149.219037
+   CQL Penalty: -624.893951
+   Total Loss: -6099.720654
+Epoch 457
+   TD Loss: 151.267197
+   CQL Penalty: -626.418988
+   Total Loss: -6112.922705
+Epoch 458
+   TD Loss: 151.152177
+   CQL Penalty: -626.116406
+   Total Loss: -6110.011914
+Epoch 459
+   TD Loss: 143.105301
+   CQL Penalty: -625.882068
+   Total Loss: -6115.715479
+Epoch 460
+   TD Loss: 143.930070
+   CQL Penalty: -626.809076
+   Total Loss: -6124.160742
+Epoch 461
+   TD Loss: 155.695316
+   CQL Penalty: -631.642566
+   Total Loss: -6160.730371
+Epoch 462
+   TD Loss: 153.595805
+   CQL Penalty: -630.367627
+   Total Loss: -6150.080469
+Epoch 463
+   TD Loss: 132.465382
+   CQL Penalty: -630.509637
+   Total Loss: -6172.631104
+Epoch 464
+   TD Loss: 146.423512
+   CQL Penalty: -633.268597
+   Total Loss: -6186.262402
+Epoch 465
+   TD Loss: 154.085776
+   CQL Penalty: -632.867511
+   Total Loss: -6174.589307
+Epoch 466
+   TD Loss: 146.552898
+   CQL Penalty: -635.555835
+   Total Loss: -6209.005420
+Epoch 467
+   TD Loss: 146.358574
+   CQL Penalty: -637.470032
+   Total Loss: -6228.341650
+Epoch 468
+   TD Loss: 137.921124
+   CQL Penalty: -642.022339
+   Total Loss: -6282.302197
+Epoch 469
+   TD Loss: 151.824774
+   CQL Penalty: -642.222455
+   Total Loss: -6270.399463
+Epoch 470
+   TD Loss: 147.465468
+   CQL Penalty: -643.477960
+   Total Loss: -6287.314062
+Epoch 471
+   TD Loss: 147.914161
+   CQL Penalty: -646.726538
+   Total Loss: -6319.351270
+Epoch 472
+   TD Loss: 137.152538
+   CQL Penalty: -647.440094
+   Total Loss: -6337.248340
+Epoch 473
+   TD Loss: 155.432269
+   CQL Penalty: -645.892249
+   Total Loss: -6303.490234
+Epoch 474
+   TD Loss: 152.918135
+   CQL Penalty: -650.371582
+   Total Loss: -6350.797754
+Epoch 475
+   TD Loss: 146.152960
+   CQL Penalty: -653.862097
+   Total Loss: -6392.468115
+Epoch 476
+   TD Loss: 141.657561
+   CQL Penalty: -652.188300
+   Total Loss: -6380.225586
+Epoch 477
+   TD Loss: 148.819212
+   CQL Penalty: -651.812347
+   Total Loss: -6369.304150
+Epoch 478
+   TD Loss: 157.079155
+   CQL Penalty: -652.854419
+   Total Loss: -6371.465137
+Epoch 479
+   TD Loss: 134.327864
+   CQL Penalty: -653.465894
+   Total Loss: -6400.330957
+Epoch 480
+   TD Loss: 151.723523
+   CQL Penalty: -654.525079
+   Total Loss: -6393.527246
+Epoch 481
+   TD Loss: 147.559555
+   CQL Penalty: -654.485754
+   Total Loss: -6397.298193
+Epoch 482
+   TD Loss: 150.210298
+   CQL Penalty: -656.888525
+   Total Loss: -6418.675049
+Epoch 483
+   TD Loss: 145.713522
+   CQL Penalty: -661.373395
+   Total Loss: -6468.020508
+Epoch 484
+   TD Loss: 163.527510
+   CQL Penalty: -661.950684
+   Total Loss: -6455.979248
+Epoch 485
+   TD Loss: 140.270582
+   CQL Penalty: -664.896906
+   Total Loss: -6508.698389
+Epoch 486
+   TD Loss: 138.601286
+   CQL Penalty: -664.566351
+   Total Loss: -6507.062305
+Epoch 487
+   TD Loss: 163.201985
+   CQL Penalty: -668.385742
+   Total Loss: -6520.655615
+Epoch 488
+   TD Loss: 141.022098
+   CQL Penalty: -668.480682
+   Total Loss: -6543.784766
+Epoch 489
+   TD Loss: 143.793637
+   CQL Penalty: -673.615552
+   Total Loss: -6592.361865
+Epoch 490
+   TD Loss: 160.242830
+   CQL Penalty: -673.481744
+   Total Loss: -6574.574414
+Epoch 491
+   TD Loss: 156.050578
+   CQL Penalty: -671.654010
+   Total Loss: -6560.489648
+Epoch 492
+   TD Loss: 155.552061
+   CQL Penalty: -673.072974
+   Total Loss: -6575.177539
+Epoch 493
+   TD Loss: 137.267667
+   CQL Penalty: -676.781531
+   Total Loss: -6630.547559
+Epoch 494
+   TD Loss: 154.478777
+   CQL Penalty: -680.796661
+   Total Loss: -6653.487842
+Epoch 495
+   TD Loss: 141.269070
+   CQL Penalty: -681.191528
+   Total Loss: -6670.646191
+Epoch 496
+   TD Loss: 146.609932
+   CQL Penalty: -679.030652
+   Total Loss: -6643.696582
+Epoch 497
+   TD Loss: 161.594402
+   CQL Penalty: -685.398669
+   Total Loss: -6692.392236
+Epoch 498
+   TD Loss: 148.963974
+   CQL Penalty: -686.663489
+   Total Loss: -6717.671143
+Epoch 499
+   TD Loss: 149.975740
+   CQL Penalty: -682.671704
+   Total Loss: -6676.741260
+Epoch 500
+   TD Loss: 149.577510
+   CQL Penalty: -689.558002
+   Total Loss: -6746.002539
+
+End: 2026-01-09 15:46:05.785561

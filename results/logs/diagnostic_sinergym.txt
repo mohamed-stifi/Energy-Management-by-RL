@@ -1,0 +1,56 @@
+======================================================================
+🔍 DIAGNOSTIC : Structure de Sinergym
+======================================================================
+
+📋 OBSERVATION BRUTE :
+   obs[ 0] =        1.000000
+   obs[ 1] =        1.000000
+   obs[ 2] =        0.000000
+   obs[ 3] =        4.400000
+   obs[ 4] =       65.000000
+   obs[ 5] =        3.875000
+   obs[ 6] =      145.000000
+   obs[ 7] =        0.000000
+   obs[ 8] =        0.000000
+   obs[ 9] =       19.952078
+   obs[10] =       28.215670
+   obs[11] =        0.000000
+   obs[12] =       12.800000
+   obs[13] =       40.000000
+   obs[14] =        0.000000
+   obs[15] =      117.947556
+   obs[16] =   106152.804688
+
+📌 DICTIONNAIRE 'INFO' :
+   day                            = 1
+   hour                           = 0
+   is_raining                     = False
+   month                          = 1
+   time_elapsed(hours)            = 0.25
+   timestep                       = 0
+
+🔄 TIMESTEPS :
+Step 1:
+   hour          = 0
+   month         = 1
+   day           = 1
+   timestep      = 1
+   total_power_no_units = ❌ NOT FOUND
+   total_power   = ❌ NOT FOUND
+
+Step 2:
+   hour          = 0
+   month         = 1
+   day           = 1
+   timestep      = 2
+   total_power_no_units = ❌ NOT FOUND
+   total_power   = ❌ NOT FOUND
+
+Step 3:
+   hour          = 0
+   month         = 1
+   day           = 1
+   timestep      = 3
+   total_power_no_units = ❌ NOT FOUND
+   total_power   = ❌ NOT FOUND
+

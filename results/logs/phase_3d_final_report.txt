@@ -1,0 +1,18 @@
+RAPPORT FINAL PHASE 3D
+================================================================================
+TABLEAU COMPARATIF :
+Agent    Type  Avg Reward  Reward Std  Max Reward  Min Reward  Avg Cost ($)  Total Cost ($)  Avg SOC  Battery Health  Comfort Violations  Energy Efficiency  Avg Episode Length
+  CQL Offline -447.366364  132.795654 -280.395233 -763.521362     32.410221      648.204407 0.499331        0.998376               250.0          15.240759               250.0
+  SAC  Online -454.523285  131.691360 -304.603302 -784.534668     32.879700      657.593994 0.499002        0.998005               250.0          14.967107               250.0
+  TD3  Online  -68.463959   27.821104  -46.175270 -110.617294     62.322899     1246.458008 0.480635        0.961270               250.0           1.073595               250.0
+
+GAGNANTS PAR MÉTRIQUE :
+Meilleur Reward : TD3 (-68.46)
+Meilleur Coût :   CQL ($32.41)
+Meilleur SOC :    CQL (SOC=0.499)
+Meilleur Confort : CQL (250.0 violations)
+
+Insights :
+TD3 : Meilleur reward moyen et coût le plus bas
+SAC : Bonne stabilité, légèrement derrière TD3
+CQL : Stable mais conservateur
